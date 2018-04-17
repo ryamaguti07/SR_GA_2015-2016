@@ -1,4 +1,4 @@
-# Algoritmo Híbrido de Recomendação
+# Algoritmo Híbrido de Recomendação Utilizando Algoritmo Genético 
 
 Descrito em:
 https://periodicos.utfpr.edu.br/recit/article/view/4370
