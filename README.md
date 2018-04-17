@@ -1,4 +1,6 @@
-# SR_GA_2015-2016
+# Algoritmo Híbrido de Recomendação
+
+Descrito em:
 https://periodicos.utfpr.edu.br/recit/article/view/4370
 
  Updated 3 minutes ago
