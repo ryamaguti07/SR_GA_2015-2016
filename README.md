@@ -3,7 +3,6 @@
 Descrito em:
 https://periodicos.utfpr.edu.br/recit/article/view/4370
 
- Updated 3 minutes ago
 Ensemble de Sistema de Recomendação com Algoritmo Genético.
 Algoritmos presentes no AG:
 -knn
